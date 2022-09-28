@@ -16,7 +16,7 @@
 // for (int i = 0; i < names.Length; i++)
 //     Console.WriteLine(names[i]);
 //Math.Abs - модуль числа (абсолют числа)
-//Math.Pow - степень числа (абсолют числа)
+//Math.Pow - степень числа 
 //Math.Sqrt(x) - возведение в квадрат
 
 //double x = 9.123456;
@@ -35,3 +35,4 @@
 // if((x==0) || (y==0)) Console.Write("Введите числа не равные 0");
 // if((x > 0) & (y > 0))
 // Console.WriteLine("1");
+

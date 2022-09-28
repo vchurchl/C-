@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\sem03DZ\bin\Debug\net6.0\sem03DZ.exe
+C:\Users\User\Desktop\C#\sem03DZ\bin\Debug\net6.0\sem03DZ.deps.json
+C:\Users\User\Desktop\C#\sem03DZ\bin\Debug\net6.0\sem03DZ.runtimeconfig.json
+C:\Users\User\Desktop\C#\sem03DZ\bin\Debug\net6.0\sem03DZ.dll
+C:\Users\User\Desktop\C#\sem03DZ\bin\Debug\net6.0\sem03DZ.pdb
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.dll
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\refint\sem03DZ.dll
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.pdb
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\sem03DZ.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\sem03DZ\obj\Debug\net6.0\ref\sem03DZ.dll
