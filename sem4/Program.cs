@@ -23,14 +23,14 @@
 //78 - 2
 //89123 - 5
 
-Console.Clear();
-Console.WriteLine("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-int i1 = 0;
-int i = n;
-while(i > 0)
-{
-    i = n/10;
-    i1++;
-}
-Console.Write($"{n} ->{i1}");
+// Console.Clear();
+// Console.Write("Введите число: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// int i1 = 0;
+// int i = n;
+// while (i > 0)
+// {
+//     i = i / 10;
+//     i1++;
+// }
+// Console.Write($"{n}->{i1}");
