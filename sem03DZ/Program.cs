@@ -11,11 +11,11 @@ int[] num = new int[5];
     Console.Write($"Введите число: ");
     num[i] = Convert.ToInt32(Console.ReadLine());
     }
-// Console.Write("Вывод массива:" );
-//     for(int i = 0; i < num.Length; i++)
-//     {
-//     Console.Write(num[i]);
-//     }
+Console.Write("Вывод массива:" );
+    for(int i = 0; i < num.Length; i++)
+    {
+    Console.Write(num[i]);
+    }
 
 if((num[0]==num[4]) && (num[1]==num[3])) 
 {

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\sem04DZ\bin\Debug\net6.0\sem04DZ.exe
+C:\Users\User\Desktop\C#\sem04DZ\bin\Debug\net6.0\sem04DZ.deps.json
+C:\Users\User\Desktop\C#\sem04DZ\bin\Debug\net6.0\sem04DZ.runtimeconfig.json
+C:\Users\User\Desktop\C#\sem04DZ\bin\Debug\net6.0\sem04DZ.dll
+C:\Users\User\Desktop\C#\sem04DZ\bin\Debug\net6.0\sem04DZ.pdb
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.dll
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\refint\sem04DZ.dll
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.pdb
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\sem04DZ.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\sem04DZ\obj\Debug\net6.0\ref\sem04DZ.dll
